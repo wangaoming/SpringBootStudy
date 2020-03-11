@@ -1,0 +1,9 @@
+#server:
+#  port:8080
+#  error:
+#    path: /error
+#  servlet:
+#    context-path: /config
+#    session:
+#      timeout: 30m
+#

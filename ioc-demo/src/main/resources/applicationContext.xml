@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--1.Bean的xml注入方式-->
+    <bean id="userService" class="com.example.iocdemo.impl.UserServiceImpl">
+<!--        设置属性-->
+        <property name="userName" value="移动1851"></property>
+
+    </bean>
+</beans>

@@ -1,12 +1,20 @@
 package com.example.iocdemo.service;
 
+import com.example.iocdemo.impl.UserServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-class UserServiceTest {
+public class UserServiceTest {
+//传统方式
+   @Test
+   public void test(){
+       UserService userService = new UserServiceImpl();
+       userService.findAll();
+   }
+
     @Test
-    public  void  test1(){
+    public  void  test2(){
 //        对象容器当中拿
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml"
         );

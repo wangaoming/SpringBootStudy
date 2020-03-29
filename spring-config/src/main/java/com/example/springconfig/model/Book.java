@@ -1,16 +1,16 @@
 
 package com.example.springconfig.model;
 
-        import lombok.AllArgsConstructor;
-        import lombok.Data;
-        import lombok.NoArgsConstructor;
-        import lombok.ToString;
-        import org.springframework.beans.factory.annotation.Value;
-        import org.springframework.boot.context.properties.ConfigurationProperties;
-        import org.springframework.stereotype.Component;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
 
-        import java.util.List;
-        import java.util.Map;
+import java.util.List;
+import java.util.Map;
 
 @Data
 @ToString
@@ -26,7 +26,8 @@ public class Book {
     private String desc;
 
     private List<String> fans;
-    private Map<String,Integer> ranks;
+    private Map<String, Integer> ranks;
+
     public String getName() {
         return name;
     }

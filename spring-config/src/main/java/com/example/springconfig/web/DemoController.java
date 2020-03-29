@@ -8,13 +8,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoController {
     @GetMapping("/hello")
-    public  String hello(){
+    public String hello() {
         return "hello,https";
     }
+
     @Autowired
     private Book book;
+
     @GetMapping("/book")
-    public  String getBook(){
+    public String getBook() {
         return book.toString();
     }
 }

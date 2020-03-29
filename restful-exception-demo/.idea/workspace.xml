@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d8a0c08-2649-49a7-82e4-cc777ab891bb" name="Default Changelist" comment="">
+    <list default="true" id="470115ec-4f06-4b42-a396-0de17d13887d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/IndexController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/MyRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1ZnZsSBSccwYI5KYdEvXfOsGRd3" />
+  <component name="ProjectId" id="1ZnhuvNKtlTPYclG99uCFiJpQ0p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,15 +38,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../restful-exception-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
-    <configuration name="SwaggerDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="swagger-demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.api.swagger.SwaggerDemoApplication" />
+    <configuration name="RestfulExceptionDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="restful-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.restful.RestfulExceptionDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,50 +72,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d8a0c08-2649-49a7-82e4-cc777ab891bb" name="Default Changelist" comment="" />
-      <created>1585477024652</created>
+      <changelist id="470115ec-4f06-4b42-a396-0de17d13887d" name="Default Changelist" comment="" />
+      <created>1585480991539</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585477024652</updated>
-      <workItem from="1585477027900" duration="293000" />
-      <workItem from="1585477574464" duration="2637000" />
+      <updated>1585480991539</updated>
+      <workItem from="1585480997398" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="163" y="0" key="CommitChangelistDialog2" timestamp="1585479744810">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="163" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585479744810" />
-    <state x="108" y="56" key="DiffContextDialog" timestamp="1585479740963">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="108" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1585479740963" />
-    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1585480991015">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585480991015" />
-    <state x="498" y="236" key="Github.ShareDialog" timestamp="1585479041467">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="498" y="236" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1585479041467" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1585477580921">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585477580921" />
   </component>
 </project>

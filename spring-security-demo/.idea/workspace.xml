@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad58408b-e8d1-4a68-9058-d52a81c9a06a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/security/demo/SpringSecurityDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/security/demo/config/MultiHttpSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/security/demo/config/SecuityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/security/demo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/security/demo/service/SecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/security.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/spring/security/demo/SpringSecurityDemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/SpringSecurityDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/config/MultiHttpSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/config/SecuityConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/config/SecuityConfig$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/config/SecuityConfig$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/config/SecuityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/spring/security/demo/service/SecurityService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/security.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/spring/security/demo/SpringSecurityDemoApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ioc-demo/src/main/java/com/example/iocdemo/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ioc-demo/src/main/java/com/example/iocdemo/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ioc-demo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ioc-demo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ioc-demo/src/test/java/com/example/iocdemo/service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ioc-demo/src/test/java/com/example/iocdemo/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__com_alibaba_druid_1_1_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/jdbc-fiisrt-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/message.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/main/java/com/example/jdbcfiisrtdemo/filter/ConnLogFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/main/java/com/example/jdbcfiisrtdemo/pojo/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/main/java/com/example/jdbcfiisrtdemo/repository/MessageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/main/java/com/example/jdbcfiisrtdemo/repository/impl/MessageRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/main/resources/META-INF/druid-filter.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/test/java/com/example/jdbcfiisrtdemo/repository/MessageRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/src/test/java/com/example/jdbcfiisrtdemo/repository/impl/MessageRepositoryImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/META-INF/druid-filter.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/JdbcFiisrtDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/filter/ConnLogFilter$ConnectionLogFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/filter/ConnLogFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/pojo/Message$MessageBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/pojo/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/repository/MessageRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/repository/impl/MessageRepositoryImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/classes/com/example/jdbcfiisrtdemo/repository/impl/MessageRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/test-classes/com/example/jdbcfiisrtdemo/JdbcFiisrtDemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/test-classes/com/example/jdbcfiisrtdemo/repository/MessageRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-fiisrt-demo/target/test-classes/com/example/jdbcfiisrtdemo/repository/impl/MessageRepositoryImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp-demo/src/main/java/com/example/jsp/demo/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp-demo/src/main/java/com/example/jsp/demo/controller/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manual_chapter01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../manual_chapter01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manual_chapter01/target/classes/com/itheima/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../manual_chapter01/target/classes/com/itheima/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/dao/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/dao/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/model/cascade/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/java/com/example/jpamysqldemo/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/test/java/com/example/jpamysqldemo/dao/MessageReposityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/src/test/java/com/example/jpamysqldemo/dao/MessageReposityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/jpa-mysql-demo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/mapper/MessageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/mapper/MessageMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/mapper/MessageSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/mapper/MessageSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/model/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/model/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/params/MessageParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/params/MessageParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/params/PageParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/java/com/example/mybatisannotationdemo/params/PageParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-annotation-demo/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/enumeration/SexEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/enumeration/SexEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/handler/SexTypeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/handler/SexTypeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/mapper/MessageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/mapper/MessageMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/mapper/UsersMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/mapper/UsersMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/java/com/example/mybatisgeneratordemo/model/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/mapper/MessageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/mapper/MessageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/test/java/com/example/mybatisgeneratordemo/mapper/MessageMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/test/java/com/example/mybatisgeneratordemo/mapper/MessageMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/test/java/com/example/mybatisgeneratordemo/mapper/UsersMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/src/test/java/com/example/mybatisgeneratordemo/mapper/UsersMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/mapper/MessageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/mapper/MessageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-generator-demo/target/classes/mapper/UsersMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-pagehelper-demo/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/java/com/example/mybatisxmldemo/mapper/MessageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/java/com/example/mybatisxmldemo/mapper/MessageMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/mybatis/mapper/MessageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/mybatis/mapper/MessageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-xml-demo/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/common/ExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/common/ExceptionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/common/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/config/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/controller/ValidatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/java/com/example/res/custom/demo/controller/ValidatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/resources/static/js/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/resources/static/js/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/resources/static/upload3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/resources/static/upload3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rescustomdemo/src/main/resources/static/validator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rescustomdemo/src/main/resources/static/validator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-demo/src/main/java/com/spring/restful/common/ExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-demo/src/main/java/com/spring/restful/common/ExceptionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-demo/src/main/java/com/spring/restful/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-demo/src/main/java/com/spring/restful/common/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-demo/src/main/java/com/spring/restful/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-demo/src/main/java/com/spring/restful/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-demo/src/test/java/com/spring/restful/controller/MessageControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-demo/src/test/java/com/spring/restful/controller/MessageControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/common/ExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/common/ExceptionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/common/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/config/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/repository/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/repository/impl/MessageRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/repository/impl/MessageRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/java/com/spring/restful/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/4xx.html" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/4xx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/5xx.html" beforeDir="false" afterPath="$PROJECT_DIR$/../restful-exception-demo/src/main/resources/static/error/5xx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../security-test-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../security-test-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo1/MyAspectAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo1/MyAspectAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo1/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo1/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo2/CustomerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo2/CustomerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo2/MyAspectXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aspectj/src/main/java/soft/spring/aspectj/demo2/MyAspectXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aspectj/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aspectj/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aspectj/src/main/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aspectj/src/main/resources/applicationContext2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/java/com/springboot/mvc/controller/MyRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/common/ExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/common/ExceptionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/common/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/config/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/repository/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swagger-demo/src/main/java/com/spring/api/swagger/service/MessageService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\maven_jar" />
+        <option name="mavenHome" value="D:/tools/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abMZKufiQZEoUPjFi2JQHZZDx1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.spring.security.demo.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\工业软件班\后端\SpringStudy\spring-security-demo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 3 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 3 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="spring-security-demo" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringSecurityDemoApplicationTests.contextLoads">
+    <configuration name="SpringSecurityDemoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.spring.security.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.spring.security.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.spring.security.demo.SpringSecurityDemoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.spring.security.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.spring.security.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.spring.security.demo.SpringSecurityDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring.security.demo.SpringSecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringSecurityDemoApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringSecurityDemoApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad58408b-e8d1-4a68-9058-d52a81c9a06a" name="Default Changelist" comment="" />
+      <created>1586999894755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586999894755</updated>
+      <workItem from="1586999900842" duration="1929000" />
+      <workItem from="1587018835723" duration="1186000" />
+      <workItem from="1587340786662" duration="3147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-166" y="58" width="1280" height="607" key="CommitChangelistDialog2" timestamp="1587343693617">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-166" y="58" width="1280" height="607" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587343693617" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1587018880754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587018880754" />
+    <state width="1237" height="5" key="GridCell.Tab.0.bottom" timestamp="1587342290419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="5" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587342290419" />
+    <state width="1237" height="5" key="GridCell.Tab.0.center" timestamp="1587342290418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="5" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587342290418" />
+    <state width="1237" height="5" key="GridCell.Tab.0.left" timestamp="1587342290418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="5" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587342290418" />
+    <state width="1237" height="5" key="GridCell.Tab.0.right" timestamp="1587342290419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="5" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587342290419" />
+    <state width="1222" height="5" key="GridCell.Tab.1.bottom" timestamp="1587342243632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="5" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587342243632" />
+    <state width="1222" height="5" key="GridCell.Tab.1.center" timestamp="1587342243632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="5" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587342243632" />
+    <state width="1222" height="5" key="GridCell.Tab.1.left" timestamp="1587342243632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="5" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587342243632" />
+    <state width="1222" height="5" key="GridCell.Tab.1.right" timestamp="1587342243632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="5" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587342243632" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587018839680">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587018839680" />
+    <state x="56" y="60" key="new project wizard" timestamp="1587019774341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="60" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587019774341" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/spring/security/demo/SpringSecurityDemoApplicationTests.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/spring/security/demo/SpringSecurityDemoApplicationTests.java</url>
+          <line>10</line>
+          <properties class="com.example.spring.security.demo.SpringSecurityDemoApplicationTests" method="contextLoads">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

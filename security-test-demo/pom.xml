@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>jdbc-fiisrt-demo</artifactId>
+    <artifactId>security-test-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jdbc-fiisrt-demo</name>
+    <name>security-test-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -21,18 +21,21 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-jdbc</artifactId>
-            <exclusions>
-                <exclusion>
-                    <groupId>com.zaxxer</groupId>
-                    <artifactId>com.zaxxer:HikariCP:3.4.1</artifactId>
-                </exclusion>
-            </exclusions>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>2.1.2</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid-spring-boot-starter</artifactId>
-            <version>1.1.21</version>
+            <version>1.1.22</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
@@ -54,6 +57,11 @@
                     <artifactId>junit-vintage-engine</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-test</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 

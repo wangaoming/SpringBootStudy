@@ -1,0 +1,30 @@
+2020-04-20 08:38:56.256[main][main] INFO  c.e.s.SecurityTestDemoApplication - Starting SecurityTestDemoApplication on DESKTOP-9S68LVQ with PID 2064 (C:\Users\ASUS\Desktop\工业软件班\后端\SpringStudy\security-test-demo\target\classes started by ASUS in C:\Users\ASUS\Desktop\工业软件班\后端\SpringStudy\security-test-demo)
+2020-04-20 08:38:56.259[main][main] INFO  c.e.s.SecurityTestDemoApplication - No active profile set, falling back to default profiles: default
+2020-04-20 08:38:57.226[main][main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-04-20 08:38:57.236[main][main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.securitytestdemo]' package. Please check your configuration.
+2020-04-20 08:38:57.917[main][main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-20 08:38:57.930[main][main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-20 08:38:57.931[main][main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-20 08:38:57.931[main][main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-20 08:38:58.102[main][main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-20 08:38:58.103[main][main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1779 ms
+2020-04-20 08:38:58.347[main][main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userService': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.securitytestdemo.mapper.UserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup="", name="", description="", authenticationType=CONTAINER, type=java.lang.Object.class, mappedName="")}
+2020-04-20 08:38:58.351[main][main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2020-04-20 08:38:58.384[main][main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-20 08:38:58.532[main][main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.example.securitytestdemo.mapper.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.example.securitytestdemo.mapper.UserMapper' in your configuration.
+
